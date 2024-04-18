@@ -2,4 +2,6 @@ Test Git Quick Start demo
 
 This is a very good learning experience till now.
 
-I am learning about Branching nand merging
+I am learning about Branching and merging
+
+Now merging without fast forward merging
