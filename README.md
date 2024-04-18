@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a github demo course material.
+This is a github demo course material and bonuses section.
 
 ## Purpose
 
