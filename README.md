@@ -10,4 +10,4 @@ The purpose of this repo is to make everyone understand github.
 
 ## How To Contribute
 
-You can contribute by issuing a PR request and ask for merging.
+Start by forking the repo and then,you can contribute by issuing a PR request and ask for merging.
