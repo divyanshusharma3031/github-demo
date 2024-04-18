@@ -6,3 +6,5 @@ I am learning about Branching and merging
 
 Now merging without fast forward merging
 This will result in a conflict now
+
+Pull with Rebase i.e Rebasing remote branches.
